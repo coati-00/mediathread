@@ -1,0 +1,9 @@
+LogEntry
+FlatPage
+AbstractUser
+MigrationHistory
+CaptchaStore
+CommentFlag
+BaseCommentAbstractModel
+Site
+Session

@@ -1,0 +1,16 @@
+Comment
+LogEntry
+FlatPage
+User
+AbstractUser
+MigrationHistory
+CaptchaStore
+CommentFlag
+BaseCommentAbstractModel
+Site
+Group
+Permission
+TaggedItem
+Tag
+Session
+ThreadedComment

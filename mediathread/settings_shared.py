@@ -154,6 +154,7 @@ INSTALLED_APPS = [
     'smoketest',
     'debug_toolbar',
     'captcha',
+     'django_extensions',
 ]
 
 INTERNAL_IPS = ('127.0.0.1', )
@@ -272,6 +273,11 @@ LOGGING = {
 }
 
 CAPTCHA_FONT_SIZE = 34
+
+GRAPH_MODELS = {
+  'all_applications': True,
+  'group_models': True,
+}
 
 # if you add a 'deploy_specific' directory
 # then you can put a settings.py file and templates/ overrides there
